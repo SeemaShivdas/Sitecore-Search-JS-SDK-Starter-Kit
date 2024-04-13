@@ -12,7 +12,7 @@ const HomeHeroWidget = () => {
     },
   } = useQuestions({
     state: {
-      keyphrase: 'What is XM cloud',
+      keyphrase: 'Carbon',
       relatedQuestions: 3,
     },
   });
